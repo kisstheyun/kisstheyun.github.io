@@ -4,12 +4,86 @@
     <title>植物学实验数据</title>
   </head>
   <body>
-    <p><a href="sysj/sysj.7z" title="实验数据" target="_top"><img src="sysj/tree.ico"          alt="" title="ZW"><b>实验数据 </b><br>
+    <p><a href="sysj/sysj.7z" title="实验数据" target="_top"><img src="sysj/tree.ico"
+          alt="" title="ZW"><b>实验数据 </b><br>
       </a><a href="sysj/lw.docx" title="实验数据"><img src="sysj/tree.ico" alt="" title="ZW"><strong>论
           文</strong></a><strong> || </strong><a href="sysj/lw.htm" title="实验数据"><strong>论
           文预览</strong><br>
-      </a><a href="sysj/lw.docx" title="实验数据"><img src="sysj/tree.ico" alt="" title="ZW"><strong><span            style="color: black;">结论</span></strong></a><strong> || </strong><a        href="sysj/zyjl.htm" title="实验数据"><strong>结论预览<br>
-        </strong></a></p>
+      </a><a href="sysj/lw.docx" title="实验数据"><img src="sysj/tree.ico" alt="" title="ZW"><strong><span
+            style="color: black;">结论</span></strong></a><strong> || </strong><a
+        href="sysj/zyjl.htm" title="实验数据"><strong>结论预览</strong></a></p>
+    <p><a href="sysj/zyjl.htm" title="实验数据"><b>SPSS检验结果</b><br>
+      </a><a href="file:///D:/Users/Zizag/Documents/GitHub/kisstheyun.github.io/sysj/Shi-TriPar-LSD.xls"
+        title="实验数据" target="_top"><img src="sysj/tree.ico" alt="" title="ZW"></a><a
+        href="sysj/生理指标SPSS检验结果.png">生
+        理指标预览</a> || <a href="sysj/Shi-TriPar-LSD.xls">SPSS表格</a> || <a href="sysj/Shi-TriPar-LSD.xlsx">SPSS
+        图表</a><a href="file:///D:/Users/Zizag/Documents/GitHub/kisstheyun.github.io/sysj/Shi-TriPar-LSD.xls"
+        title="实验数据" target="_top"><br>
+      </a></p>
+    <p><a href="file:///D:/Users/Zizag/Documents/GitHub/kisstheyun.github.io/sysj/Shi-TriPar-LSD.xls"
+        title="实验数据" target="_top"><img src="sysj/tree.ico" alt="" title="ZW"></a><a
+        href="sysj/SPSS形态指标检验结果.png">形
+        态指标预览</a> || <a href="sysj/Su-TriPar-LSD.xls">SPSS表格</a> || <a href="sysj/苏-三平行.xlsx">SPSS
+        图表</a></p>
+    <p>压缩包目录结构</p>
+    <p>卷 新加卷 的文件夹 PATH 列表<br>
+      卷序列号为 7629-3CE4<br>
+      D:.<br>
+      &nbsp;&nbsp;&nbsp; 2018-植物生物学综合实验安排 [自动保存的].ppt<br>
+      &nbsp;&nbsp;&nbsp; a.tst<br>
+      &nbsp;&nbsp;&nbsp; a.txt<br>
+      &nbsp;&nbsp;&nbsp; RNA.png<br>
+      &nbsp;&nbsp;&nbsp; RNA.sav<br>
+      &nbsp;&nbsp;&nbsp; RNA.xps<br>
+      &nbsp;&nbsp;&nbsp; Shi-TriPar-LSD.sav<br>
+      &nbsp;&nbsp;&nbsp; Shi-TriPar-LSD.xls<br>
+      &nbsp;&nbsp;&nbsp; Shi-TriPar-LSD.xlsx<br>
+      &nbsp;&nbsp;&nbsp; SHI000.zip<br>
+      &nbsp;&nbsp;&nbsp; SHI_TriPar.spv<br>
+      &nbsp;&nbsp;&nbsp; SPSS丙二醛.xls<br>
+      &nbsp;&nbsp;&nbsp; spss实例.xps<br>
+      &nbsp;&nbsp;&nbsp; SPSS形态指标检验结果.png<br>
+      &nbsp;&nbsp;&nbsp; SPSS总糖.xls<br>
+      &nbsp;&nbsp;&nbsp; SPSS硝态氮.xls<br>
+      &nbsp;&nbsp;&nbsp; SPSS脯氨酸.xls<br>
+      &nbsp;&nbsp;&nbsp; SPSS脯氨酸xb.xls<br>
+      &nbsp;&nbsp;&nbsp; SPSS蛋白质.xls<br>
+      &nbsp;&nbsp;&nbsp; Su-TriPar-LSD.spv<br>
+      &nbsp;&nbsp;&nbsp; Su-TriPar-LSD.xls<br>
+      &nbsp;&nbsp;&nbsp; tree.ico<br>
+      &nbsp;&nbsp;&nbsp; tree.jpg<br>
+      &nbsp;&nbsp;&nbsp; zyjl.htm<br>
+      &nbsp;&nbsp;&nbsp; 三线格.rtf<br>
+      &nbsp;&nbsp;&nbsp; 三线格.xlsx<br>
+      &nbsp;&nbsp;&nbsp; 三线格.xps<br>
+      &nbsp;&nbsp;&nbsp; 三线格3.xps<br>
+      &nbsp;&nbsp;&nbsp; 孙老师部分.xlsx<br>
+      &nbsp;&nbsp;&nbsp; 小麦幼苗盐胁迫处理后在生理生化形态特征及基因表达变化.docx<br>
+      &nbsp;&nbsp;&nbsp; 小麦盐胁迫形态特征数据 (自动保存的).xlsx<br>
+      &nbsp;&nbsp;&nbsp; 形态指标=_=.png<br>
+      &nbsp;&nbsp;&nbsp; 形态指标三线格.docx<br>
+      &nbsp;&nbsp;&nbsp; 描述RNA-只有单变量故不必spss.xls<br>
+      &nbsp;&nbsp;&nbsp; 描述RNA1.xls<br>
+      &nbsp;&nbsp;&nbsp; 描述RNA2.xls<br>
+      &nbsp;&nbsp;&nbsp; 株高etc.sav<br>
+      &nbsp;&nbsp;&nbsp; 株高数据-多重比较.xls<br>
+      &nbsp;&nbsp;&nbsp; 株高数据-统计值.xls<br>
+      &nbsp;&nbsp;&nbsp; 株高数据.xls<br>
+      &nbsp;&nbsp;&nbsp; 株高等.sav<br>
+      &nbsp;&nbsp;&nbsp; 植物.rtf<br>
+      &nbsp;&nbsp;&nbsp; 植物实验3-2.sav<br>
+      &nbsp;&nbsp;&nbsp; 植物数据(1).xlsx<br>
+      &nbsp;&nbsp;&nbsp; 植物数据(2).xlsx<br>
+      &nbsp;&nbsp;&nbsp; 生理指标.png<br>
+      &nbsp;&nbsp;&nbsp; 生理指标SPSS检验结果.png<br>
+      &nbsp;&nbsp;&nbsp; 生理指标三线格.xlsx<br>
+      &nbsp;&nbsp;&nbsp; 苏-三平行.sav<br>
+      &nbsp;&nbsp;&nbsp; 苏-三平行.xlsx<br>
+      &nbsp;&nbsp;&nbsp; 误差概览.xlsx<br>
+      &nbsp;&nbsp;&nbsp; <br>
+      没有子文件夹 </p>
+    <p><br>
+      <a href="sysj/sysj.7z" title="实验数据" target="_top"></a></p>
     <p><a href="sysj/%CA%B5%D1%E9%CA%FD%BE%DD.zip" title="实验数据" target="_top"><br>
       </a><b><span style="color: black;">为了方便，除了qq之外我还把实验数据放到了github上，github上传快一
           点。</span></b></p>
